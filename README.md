@@ -15,8 +15,10 @@
 3. While i would have loved to be BEE, FEE looked easier to grasp, allows creativity too. Cant wait to be at my fullest potential.
 
 ## GIT & GITHUB COMMANDS.
-So far i have grasped the most important commands for git & github. 
+
+So far i have grasped the most important commands for git & github.
 Namely;
+
 1. Clone
 2. init
 3. add
@@ -29,3 +31,5 @@ Namely;
 10. branch
 11. checkout
 12. status
+13. reset
+14. log
